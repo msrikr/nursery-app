@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nursery-app/static/css/main.0fc8b710.css",
+    "main.js": "/nursery-app/static/js/main.3cebbc29.js",
+    "static/media/th.jpg": "/nursery-app/static/media/th.16fc451471cc523193e7.jpg",
+    "index.html": "/nursery-app/index.html",
+    "main.0fc8b710.css.map": "/nursery-app/static/css/main.0fc8b710.css.map",
+    "main.3cebbc29.js.map": "/nursery-app/static/js/main.3cebbc29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fc8b710.css",
+    "static/js/main.3cebbc29.js"
+  ]
+}
