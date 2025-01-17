@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nursery-app/static/css/main.0fc8b710.css",
-    "main.js": "/nursery-app/static/js/main.797671de.js",
+    "main.js": "/nursery-app/static/js/main.bd2897e2.js",
     "static/media/th.jpg": "/nursery-app/static/media/th.16fc451471cc523193e7.jpg",
     "index.html": "/nursery-app/index.html",
     "main.0fc8b710.css.map": "/nursery-app/static/css/main.0fc8b710.css.map",
-    "main.797671de.js.map": "/nursery-app/static/js/main.797671de.js.map"
+    "main.bd2897e2.js.map": "/nursery-app/static/js/main.bd2897e2.js.map"
   },
   "entrypoints": [
     "static/css/main.0fc8b710.css",
-    "static/js/main.797671de.js"
+    "static/js/main.bd2897e2.js"
   ]
 }
