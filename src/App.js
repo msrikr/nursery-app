@@ -10,7 +10,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/nursery" element={<LandingPage />} />
+        <Route path="/nursery-app" element={<LandingPage />} />
         <Route
           path="/product"
           element={<ProductPage cartItems={cartItems} setCartItems={setCartItems} />}
